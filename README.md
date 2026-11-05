@@ -1,3 +1,6 @@
+> **Applied AI portfolio project by Brent Oatis, MBA**
+> Applying reinforcement learning to dispatch, scheduling, and resource-allocation decisions.
+
 # Hospital Emergency Response Optimization Using Reinforcement Learning
 
 ## Overview
